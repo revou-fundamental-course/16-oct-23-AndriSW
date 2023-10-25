@@ -18,10 +18,6 @@
 
 }
 
-.nav-item > a:link {
-    text-decoration: none;
-}
-
 .greetings {
     padding-top: 2em;
     padding-left: 5em;
@@ -62,4 +58,12 @@
 .circle-content p {
     font-size: 16px;
     color: black;
+}
+
+.message-us {
+    display: flex;
+    margin-left: 5em;
+    padding: 2em;
+    width: 50%; 
+    justify-content: space-between;
 }
