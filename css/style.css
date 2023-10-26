@@ -67,3 +67,14 @@
     width: 50%; 
     justify-content: space-between;
 }
+
+.right-form {
+    width: 50%;
+    border: 1px solid black;
+}
+
+footer {
+    text-align: right;
+    padding: 15px 23px;
+    color: grey;
+}
